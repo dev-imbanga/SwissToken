@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+MINTABLE ERC20 TOKEN.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates how to create and deploy an ERC20 mintable token
 
 Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+<!-- ......Bash -->
+yarn hardhat help
+yarn hardhat node
+yarn hardhat run scipts/deploy.js
+
